@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/00 Database/">
+    <Project Path="CyberSecurite.Database/CyberSecurite.Database.sqlproj" Id="0769ca36-5c8c-43fa-ade8-2e85ffa069e9">
+      <Build />
+      <Deploy />
+    </Project>
+  </Folder>
+  <Folder Name="/01 Domain/">
+    <Project Path="CyberSecurite.Domain/CyberSecurite.Domain.csproj" Id="5bb993ef-e2db-492a-8979-dea40d44681b" />
+  </Folder>
+  <Folder Name="/02 Api/">
+    <Project Path="CyberSecurite.Api/CyberSecurite.Api.csproj" />
+  </Folder>
+  <Folder Name="/99 Tools/">
+    <Project Path="Cqs/Cqs.csproj" Id="26362bf7-b810-48a8-a1f0-25ccce93b13e" />
+    <Project Path="Patterns.Result/Patterns.Result.csproj" Id="01784701-213a-4a08-8c45-bb48a39cf718" />
+  </Folder>
+</Solution>
