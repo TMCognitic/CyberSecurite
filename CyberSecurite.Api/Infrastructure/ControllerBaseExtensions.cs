@@ -1,6 +1,5 @@
-﻿using Microsoft.AspNetCore.Http.HttpResults;
-using Microsoft.AspNetCore.Mvc;
-using Patterns.Results;
+﻿using Microsoft.AspNetCore.Mvc;
+using Tools.Patterns.Results;
 
 namespace CyberSecurite.Api.Infrastructure
 {

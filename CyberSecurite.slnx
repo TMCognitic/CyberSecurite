@@ -12,7 +12,6 @@
     <Project Path="CyberSecurite.Api/CyberSecurite.Api.csproj" />
   </Folder>
   <Folder Name="/99 Tools/">
-    <Project Path="Cqs/Cqs.csproj" Id="26362bf7-b810-48a8-a1f0-25ccce93b13e" />
-    <Project Path="Patterns.Result/Patterns.Result.csproj" Id="01784701-213a-4a08-8c45-bb48a39cf718" />
+    <Project Path="Tools/Tools.csproj" Id="5d15f5d5-1023-42a2-8a88-8cd97a59d7f5" />
   </Folder>
 </Solution>

@@ -1,6 +1,6 @@
-﻿using Patterns.Results;
+﻿using Tools.Patterns.Results;
 
-namespace Cqs.Queries
+namespace Tools.Cqs.Queries
 {
     public interface IQueryHandler<TQuery, TResult>
         where TQuery : IQueryDefinition<TResult>

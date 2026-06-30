@@ -1,5 +1,5 @@
-using Cqs.Commands;
-using Cqs.Queries;
+using Tools.Cqs.Commands;
+using Tools.Cqs.Queries;
 using CyberSecurite.Domain.Commands;
 using CyberSecurite.Domain.Entities;
 using CyberSecurite.Domain.Queries;

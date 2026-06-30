@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Cqs.Commands
+namespace Tools.Cqs.Commands
 {
     public interface ICommandDefinition
     {

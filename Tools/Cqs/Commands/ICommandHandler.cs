@@ -1,6 +1,6 @@
-﻿using Patterns.Results;
+﻿using Tools.Patterns.Results;
 
-namespace Cqs.Commands
+namespace Tools.Cqs.Commands
 {
     public interface ICommandHandler<TCommand>
         where TCommand : ICommandDefinition

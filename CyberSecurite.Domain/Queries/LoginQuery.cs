@@ -1,6 +1,6 @@
-﻿using Cqs.Queries;
+﻿using Tools.Cqs.Queries;
 using CyberSecurite.Domain.Entities;
-using Patterns.Results;
+using Tools.Patterns.Results;
 using System.Data.Common;
 
 namespace CyberSecurite.Domain.Queries

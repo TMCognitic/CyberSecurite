@@ -1,4 +1,4 @@
-﻿namespace Patterns.Results
+﻿namespace Tools.Patterns.Results
 {
     public class Error
     {

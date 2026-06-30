@@ -1,5 +1,5 @@
-﻿using Cqs.Commands;
-using Patterns.Results;
+﻿using Tools.Cqs.Commands;
+using Tools.Patterns.Results;
 using System.Data.Common;
 
 namespace CyberSecurite.Domain.Commands

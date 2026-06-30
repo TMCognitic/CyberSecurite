@@ -1,13 +1,12 @@
-﻿using Cqs.Commands;
-using Cqs.Queries;
-using CyberSecurite.Api.Dtos;
+﻿using CyberSecurite.Api.Dtos;
 using CyberSecurite.Api.Infrastructure;
 using CyberSecurite.Domain.Commands;
 using CyberSecurite.Domain.Entities;
 using CyberSecurite.Domain.Queries;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Patterns.Results;
+using Tools.Cqs.Commands;
+using Tools.Cqs.Queries;
 
 namespace CyberSecurite.Api.Controllers
 {
